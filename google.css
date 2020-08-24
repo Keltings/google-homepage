@@ -1,0 +1,31 @@
+body{
+  padd
+}
+img {
+    display: block;
+    margin: 0 auto;
+  }
+  div.main{
+    text-align: center;
+    margin-top: 110px;
+  }
+  
+div.header{
+  text-align:right;
+}
+footer{
+  background-color:#9c9090;
+  color: white;
+}
+#footer-right{
+  float: right;
+  padding: 2px;
+  
+}
+  #footer-left{
+    float: left;
+    padding: 2px;
+  }
+  .country{
+    margin-top: 330px;
+  }
